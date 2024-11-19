@@ -1,2 +1,2 @@
-# ptimer-repositorio
+# primer-repositorio
 practica pre curso 
